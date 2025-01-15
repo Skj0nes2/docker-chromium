@@ -1,0 +1,11 @@
+    {
+
+        "image": "jlesage/firefox:latest",  
+
+        "ports": [ 
+
+            "5800:5800"  
+
+        ]
+
+    }
